@@ -41,7 +41,7 @@ AI-powered recipe generation platform with OpenAI integration and nutrition trac
 ## 📫 Contact
 
 - **Email:** [gurudinesh2709@gmail.com](mailto:gurudinesh2709@gmail.com)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/guru-dinesh-3231552b5)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/gurudineshreddy/)
 - **Portfolio:** [gurudinesh2723.github.io/portfolio](https://gurudinesh2723.github.io/portfolio/)
 
 ---
