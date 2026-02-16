@@ -333,7 +333,6 @@ If you like this portfolio, please consider:
 [![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 </div>
-
 # portfolio
 
 ![GD Logo](logo.png)
